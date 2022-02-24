@@ -59,7 +59,7 @@
      },
                                                                                                                                                                                                                                    
      "setWelcome": {
-     "autoWelcome": true,
+     "autoWelcome": false,
      "welcomeType": "type3",
      "background": "https://tinyurl.com/yxvl8h3a"
      },    
